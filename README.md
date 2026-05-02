@@ -54,3 +54,5 @@ Bu proje, XAU/USD paritesindeki fiyat hareketlerini anlık ve hassas bir şekild
 3. Kurulum bittikten sonra masaüstünüze gelen kısayol ile uygulamayı hemen başlatabilirsiniz.
 
 *(Not: Arka planda MetaTrader 5 terminalinin açık ve hesaba giriş yapılmış olduğundan emin olun. Açık değil ise program otomatik olarak çalıştıracaktır.)*
+
+✍🏻 **[Medium Bilgilendirme Yazısı](https://setxkbmap.medium.com/altin-fiyat-duzeltmeleri-ve-puan-hesaplama-mt5-d106a8e90c56)**
