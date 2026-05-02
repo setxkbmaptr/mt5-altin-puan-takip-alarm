@@ -49,6 +49,8 @@ Bu proje, XAU/USD paritesindeki fiyat hareketlerini anlık ve hassas bir şekild
 
 📥 **[XAUUSD-MT5-Alarm-Setup-1.0.0.exe Dosyasını İndir](https://github.com/setxkbmaptr/mt5-altin-puan-takip-alarm/releases/download/v1.0.0/XAUUSD-MT5-Alarm-Setup-1.0.0.exe)**
 
+[![İndir](https://img.shields.io/badge/İndir-v1.0.0_(Setup.exe)-brightgreen?style=for-the-badge&logo=windows)](https://github.com/setxkbmaptr/mt5-altin-puan-takip-alarm/releases/download/v1.0.0/XAUUSD-MT5-Alarm-Setup-1.0.0.exe)
+
 1. Yukarıdaki bağlantıya tıklayarak kurulum dosyasını (`.exe`) bilgisayarınıza indirin.
 2. İndirdiğiniz dosyayı çalıştırın ve ekrandaki standart kurulum adımlarını izleyin.
 3. Kurulum bittikten sonra masaüstünüze gelen kısayol ile uygulamayı hemen başlatabilirsiniz.
